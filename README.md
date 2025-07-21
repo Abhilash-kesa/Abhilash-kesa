@@ -10,5 +10,7 @@ I enjoy solving complex data problems and continuously improving data systems at
 
 ## 🌐 Connect with Me:
 
-📧 Email: [abhilashkesa@gmail.com](mailto:abhilashkesa@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/abhilash-kesa](https://linkedin.com/in/abhilash-kesa)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashkesa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash-kesa)
+
