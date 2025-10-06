@@ -1,12 +1,10 @@
 ## 👋 About Me:
 
-Hi there, I'm **Abhilash Kesa**, AI Data Engineer with 4+ years of experience in designing and building data pipelines.  
-I specialize in developing scalable, cloud-based solutions that turn raw data into actionable insights.  
-My focus is on delivering reliable, efficient, and automated data workflows.
+Hi there, I’m Abhilash Kesa, an AI Data Engineer with 4+ years of experience designing and building scalable, cloud-native data pipelines and machine learning solutions. I specialize in transforming raw data into reliable, actionable insights through efficient and automated workflows.
 
-I have a strong background in **Python**, **Azure**, **AWS**, and **Databricks**.  
-I'm also skilled in **dbt**, **Apache Spark**, and **Apache Airflow** for orchestration and transformation.  
-I enjoy solving complex data problems and continuously improving data systems at scale.
+My expertise spans Python, Azure, AWS, and Databricks, along with advanced skills in dbt, Apache Spark, and Apache Airflow for data orchestration and transformation. I focus on developing end-to-end data infrastructures that support machine learning workflows, including anomaly detection, sentiment analysis, classification, and regression models.
+
+I enjoy solving complex data challenges and continuously optimizing data and ML systems for performance and reliability to drive data-driven decision making at scale.
 
 ## 🌐 Connect with Me:
 
