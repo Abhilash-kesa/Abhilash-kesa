@@ -1,6 +1,6 @@
 ## 👋 About Me:
 
-Hi there, I'm **Abhilash Kesa**, a Data Engineer with 4+ years of experience in designing and building data pipelines.  
+Hi there, I'm **Abhilash Kesa**, AI Data Engineer with 4+ years of experience in designing and building data pipelines.  
 I specialize in developing scalable, cloud-based solutions that turn raw data into actionable insights.  
 My focus is on delivering reliable, efficient, and automated data workflows.
 
