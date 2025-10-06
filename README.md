@@ -39,6 +39,17 @@ I enjoy solving complex data challenges and continuously optimizing data and ML 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-6DB33F?style=flat)
 ![ML Workflows](https://img.shields.io/badge/ML_Workflows-FF6F00?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF4500?style=flat)
+
+### 📊 Data Science & Statistics
+![Statistics](https://img.shields.io/badge/Statistics-264653?style=flat&logo=gnuplot&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-F4A261?style=flat)
+![Regression](https://img.shields.io/badge/Regression-E76F51?style=flat)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-2A9D8F?style=flat)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series-1D3557?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-E9C46A?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-457B9D?style=flat)
 
 ### 🧰 Tools & Frameworks
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white)
